@@ -59,7 +59,7 @@ Ensure the Ollama server (ollama serve) is running before executing the Flutter 
 flutter run
 ```
 
-## Collaboration
+# Collaboration
 This project was developed as a collaborative academic project.
 This repository represents my personal contribution and understanding
 of the overall project.
